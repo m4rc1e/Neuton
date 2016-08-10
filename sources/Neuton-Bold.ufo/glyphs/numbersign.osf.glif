@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.osf" format="1">
+  <advance width="1033"/>
+  <outline>
+    <contour>
+      <point x="20.5" y="224" type="line"/>
+      <point x="64.5" y="397.5" type="line"/>
+      <point x="950" y="397.5" type="line"/>
+      <point x="907.5" y="224" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="555" type="line"/>
+      <point x="122.5" y="728.5" type="line"/>
+      <point x="1010.5" y="728.5" type="line"/>
+      <point x="968.5" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="-26" type="line"/>
+      <point x="358.5" y="964.5" type="line"/>
+      <point x="520.5" y="974.5" type="line"/>
+      <point x="363.5" y="-19" type="line"/>
+    </contour>
+    <contour>
+      <point x="516" y="-26" type="line"/>
+      <point x="673" y="964.5" type="line"/>
+      <point x="835.5" y="973.5" type="line"/>
+      <point x="678" y="-19" type="line"/>
+    </contour>
+  </outline>
+</glyph>

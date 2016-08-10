@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.sc" format="1">
+  <advance width="868"/>
+  <outline>
+    <contour>
+      <point x="43.5" y="863" type="line"/>
+      <point x="52.5" y="922" type="line"/>
+      <point x="824" y="922" type="line"/>
+      <point x="793" y="650.5" type="line"/>
+      <point x="717" y="661.5" type="line"/>
+      <point x="701" y="850.5" type="line"/>
+      <point x="341.5" y="850.5" type="line"/>
+      <point x="341.5" y="460" type="line"/>
+      <point x="589.5" y="460" type="line"/>
+      <point x="615.5" y="551.5" type="line"/>
+      <point x="691" y="562" type="line"/>
+      <point x="662" y="273.5" type="line"/>
+      <point x="589.5" y="262.5" type="line"/>
+      <point x="577.5" y="387.5" type="line"/>
+      <point x="341.5" y="387.5" type="line"/>
+      <point x="340" y="96" type="line"/>
+      <point x="537" y="68" type="line"/>
+      <point x="524.5" y="0" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="54.5" y="58" type="line"/>
+      <point x="193" y="96.5" type="line"/>
+      <point x="193" y="828.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

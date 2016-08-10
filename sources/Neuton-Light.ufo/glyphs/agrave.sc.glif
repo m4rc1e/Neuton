@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agrave.sc" format="1">
+  <advance width="1430"/>
+  <outline>
+    <contour>
+      <point x="12.5" y="0" type="line"/>
+      <point x="19.5" y="58" type="line"/>
+      <point x="135" y="100.5" type="line"/>
+      <point x="455.5" y="918.5" type="line"/>
+      <point x="557.5" y="941" type="line"/>
+      <point x="860" y="95" type="line"/>
+      <point x="964.5" y="63.5" type="line"/>
+      <point x="956" y="0.5" type="line"/>
+      <point x="559" y="0.5" type="line"/>
+      <point x="569.5" y="58.5" type="line"/>
+      <point x="703" y="97" type="line"/>
+      <point x="474.5" y="747" type="line"/>
+      <point x="241" y="94.5" type="line"/>
+      <point x="391" y="63" type="line"/>
+      <point x="381" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="308" type="line"/>
+      <point x="308" y="387" type="line"/>
+      <point x="665.5" y="387" type="line"/>
+      <point x="689.5" y="308" type="line"/>
+    </contour>
+    <contour>
+      <point x="308.5" y="1326" type="line"/>
+      <point x="413" y="1363.5" type="line"/>
+      <point x="545.5" y="1029" type="line"/>
+      <point x="494.5" y="998" type="line"/>
+    </contour>
+  </outline>
+</glyph>

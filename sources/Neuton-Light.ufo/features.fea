@@ -1,0 +1,243 @@
+languagesystem DFLT dflt;
+languagesystem hebr dflt;
+languagesystem latn dflt;
+
+
+# GSUB 
+
+
+lookup NeutonRegularsaltStylisticAlter {
+  lookupflag 0;
+    sub \Germandbls from [\Germandbls.alt ];
+    sub \germandbls.sc from [\germandbls.sc.alt ];
+} NeutonRegularsaltStylisticAlter;
+
+lookup NeutonRegularc2scCapitalstoSmal {
+  lookupflag 0;
+    sub \A by \a.sc ;
+    sub \AE by \ae.sc ;
+    sub \B by \b.sc ;
+    sub \C by \c.sc ;
+    sub \D by \d.sc ;
+    sub \E by \e.sc ;
+    sub \Ecircumflex by \ecircumflex.sc ;
+    sub \Eth by \eth.sc ;
+    sub \F by \f.sc ;
+    sub \G by \g.sc ;
+    sub \Germandbls by \germandbls.sc ;
+    sub \H by \h.sc ;
+    sub \I by \i.sc ;
+    sub \J by \j.sc ;
+    sub \K by \k.sc ;
+    sub \L by \l.sc ;
+    sub \M by \m.sc ;
+    sub \N by \n.sc ;
+    sub \O by \o.sc ;
+    sub \Oslash by \oslash.sc ;
+    sub \P by \p.sc ;
+    sub \Q by \q.sc ;
+    sub \R by \r.sc ;
+    sub \S by \s.sc ;
+    sub \T by \t.sc ;
+    sub \Thorn by \thorn.sc ;
+    sub \U by \u.sc ;
+    sub \Uacute by \uacute.sc ;
+    sub \Ugrave by \ugrave.sc ;
+    sub \V by \v.sc ;
+    sub \W by \w.sc ;
+    sub \X by \x.sc ;
+    sub \Y by \y.sc ;
+    sub \Yacute by \yacute.sc ;
+    sub \Z by \z.sc ;
+    sub \ampersand by \ampersand.sc ;
+    sub \paragraph by \paragraph.sc ;
+    sub \Germandbls.alt by \germandbls.sc.alt ;
+    sub \Agrave by \agrave.sc ;
+    sub \Aacute by \aacute.sc ;
+    sub \Acircumflex by \acircumflex.sc ;
+    sub \Atilde by \atilde.sc ;
+    sub \Adieresis by \adieresis.sc ;
+    sub \Aring by \aring.sc ;
+    sub \Ccedilla by \ccedilla.sc ;
+    sub \Egrave by \egrave.sc ;
+    sub \Eacute by \eacute.sc ;
+    sub \Edieresis by \edieresis.sc ;
+    sub \Igrave by \igrave.sc ;
+    sub \Iacute by \iacute.sc ;
+    sub \Icircumflex by \icircumflex.sc ;
+    sub \Idieresis by \idieresis.sc ;
+    sub \Ntilde by \ntilde.sc ;
+    sub \Ograve by \ograve.sc ;
+    sub \Oacute by \oacute.sc ;
+    sub \Ocircumflex by \ocircumflex.sc ;
+    sub \Otilde by \otilde.sc ;
+    sub \Odieresis by \odieresis.sc ;
+    sub \Ucircumflex by \ucircumflex.sc ;
+    sub \Udieresis by \udieresis.sc ;
+} NeutonRegularc2scCapitalstoSmal;
+
+lookup NeutonRegularsmcpLowercasetoSma {
+  lookupflag 0;
+    sub \a by \a.sc ;
+    sub \ae by \ae.sc ;
+    sub \agrave by \agrave.sc ;
+    sub \b by \b.sc ;
+    sub \c by \c.sc ;
+    sub \d by \d.sc ;
+    sub \e by \e.sc ;
+    sub \eacute by \eacute.sc ;
+    sub \egrave by \egrave.sc ;
+    sub \eth by \eth.sc ;
+    sub \f by \f.sc ;
+    sub \g by \g.sc ;
+    sub \germandbls by \germandbls.sc ;
+    sub \h by \h.sc ;
+    sub \i by \i.sc ;
+    sub \igrave by \igrave.sc ;
+    sub \j by \j.sc ;
+    sub \k by \k.sc ;
+    sub \l by \l.sc ;
+    sub \m by \m.sc ;
+    sub \n by \n.sc ;
+    sub \o by \o.sc ;
+    sub \oslash by \oslash.sc ;
+    sub \p by \p.sc ;
+    sub \q by \q.sc ;
+    sub \r by \r.sc ;
+    sub \s by \s.sc ;
+    sub \t by \t.sc ;
+    sub \thorn by \thorn.sc ;
+    sub \u by \u.sc ;
+    sub \v by \v.sc ;
+    sub \w by \w.sc ;
+    sub \x by \x.sc ;
+    sub \y by \y.sc ;
+    sub \yacute by \yacute.sc ;
+    sub \z by \z.sc ;
+    sub \aacute by \aacute.sc ;
+    sub \acircumflex by \acircumflex.sc ;
+    sub \atilde by \atilde.sc ;
+    sub \adieresis by \adieresis.sc ;
+    sub \aring by \aring.sc ;
+    sub \ccedilla by \ccedilla.sc ;
+    sub \ecircumflex by \ecircumflex.sc ;
+    sub \edieresis by \edieresis.sc ;
+    sub \iacute by \iacute.sc ;
+    sub \icircumflex by \icircumflex.sc ;
+    sub \idieresis by \idieresis.sc ;
+    sub \ntilde by \ntilde.sc ;
+    sub \ograve by \ograve.sc ;
+    sub \oacute by \oacute.sc ;
+    sub \ocircumflex by \ocircumflex.sc ;
+    sub \otilde by \otilde.sc ;
+    sub \odieresis by \odieresis.sc ;
+    sub \ugrave by \ugrave.sc ;
+    sub \uacute by \uacute.sc ;
+    sub \ucircumflex by \ucircumflex.sc ;
+    sub \udieresis by \udieresis.sc ;
+} NeutonRegularsmcpLowercasetoSma;
+
+lookup NeutonRegularonumOldstyleFigure {
+  lookupflag 0;
+    sub \dollar by \dollar.osf ;
+    sub \eight by \eight.osf ;
+    sub \five by \five.osf ;
+    sub \four by \four.osf ;
+    sub \nine by \nine.osf ;
+    sub \numbersign by \numbersign.osf ;
+    sub \one by \one.osf ;
+    sub \percent by \percent.osf ;
+    sub \seven by \seven.osf ;
+    sub \six by \six.osf ;
+    sub \sterling by \sterling.osf ;
+    sub \three by \three.osf ;
+    sub \two by \two.osf ;
+    sub \yen by \yen.osf ;
+    sub \zero by \zero.osf ;
+} NeutonRegularonumOldstyleFigure;
+
+feature salt {
+
+ script DFLT;
+     language dflt ;
+      lookup NeutonRegularsaltStylisticAlter;
+
+ script latn;
+     language dflt ;
+      lookup NeutonRegularsaltStylisticAlter;
+} salt;
+
+feature c2sc {
+
+ script DFLT;
+     language dflt ;
+      lookup NeutonRegularc2scCapitalstoSmal;
+
+ script latn;
+     language dflt ;
+      lookup NeutonRegularc2scCapitalstoSmal;
+} c2sc;
+
+feature smcp {
+
+ script latn;
+     language dflt ;
+      lookup NeutonRegularsmcpLowercasetoSma;
+} smcp;
+
+feature onum {
+
+ script DFLT;
+     language dflt ;
+      lookup NeutonRegularonumOldstyleFigure;
+
+ script hebr;
+     language dflt ;
+      lookup NeutonRegularonumOldstyleFigure;
+
+ script latn;
+     language dflt ;
+      lookup NeutonRegularonumOldstyleFigure;
+} onum;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\A \AE \B \C \D \E \Ecircumflex \Eth \Euro \F \G \Germandbls \H \I \J \K \L 
+	\M \N \O \Oslash \P \Q \R \S \T \Thorn \U \Uacute \Ugrave \V \W \X \Y \Yacute \Z \a \acute 
+	\ae \agrave \ampersand \asciicircum \asciitilde \asterisk \at \b \backslash \bar 
+	\braceright \bracketright \brokenbar \c \cedilla \cent \circumflex \colon \comma 
+	\copyright \currency \d \dagger \daggerdbl \degree \dieresis \divide \dollar 
+	\dotaccent \e \eacute \egrave \eight \eight.osf \emdash \endash \equal \eth 
+	\exclam \exclamdown \f \five \five.osf \four \four.osf \g \germandbls \grave 
+	\greater \guilsinglleft \h \hyphen \i \igrave \j \k \l \logicalnot \m \macron 
+	\multiply \n \nine \nine.osf \numbersign \o \one \one.osf \onehalf \onequarter 
+	\one.superior \ordfeminine \ordmasculine \oslash \p \paragraph \parenright 
+	\percent \period \periodcentered \plus \q \question \quotedbl \quotesingle \r 
+	\registered \ring \s \section \seven \seven.osf \six \six.osf \slash \softhyphen 
+	\space \sterling \t \thorn \three \three.osf \threequarters \three.superior 
+	\tilde \two \two.osf \two.superior \u \underscore \v \w \x \y \yacute \ydieresis 
+	\yen \z \zero \zero.osf \Germandbls.alt \Agrave \Aacute \Acircumflex \Atilde 
+	\Adieresis \Aring \Ccedilla \Egrave \Eacute \Edieresis \Igrave \Iacute 
+	\Icircumflex \Idieresis \Ntilde \Ograve \Oacute \Ocircumflex \Otilde \Odieresis 
+	\Ucircumflex \Udieresis \aacute \acircumflex \atilde \adieresis \aring 
+	\ccedilla \ecircumflex \edieresis \iacute \icircumflex \idieresis \ntilde 
+	\ograve \oacute \ocircumflex \otilde \odieresis \ugrave \uacute \ucircumflex 
+	\udieresis \braceleft \bracketleft \guillemotleft \guillemotright 
+	\guilsinglright \less \nbspace \parenleft \plusminus \questiondown 
+	\quotedblleft \quotedblright \quoteleft \quoteright \quotesinglbase 
+	\semicolon \micro \a.sc \b.sc \c.sc \d.sc \e.sc \f.sc \g.sc \h.sc \i.sc \j.sc \k.sc 
+	\l.sc \m.sc \n.sc \o.sc \p.sc \q.sc \r.sc \s.sc \t.sc \u.sc \v.sc \w.sc \x.sc \y.sc 
+	\z.sc \ae.sc \eth.sc \thorn.sc \germandbls.sc \germandbls.sc.alt \euro.osf 
+	\ampersand.sc \dollar.osf \paragraph.sc \percent.osf \sterling.osf \yen.osf 
+	\oslash.sc \numbersign.osf \agrave.sc \aacute.sc \acircumflex.sc \atilde.sc 
+	\adieresis.sc \aring.sc \ccedilla.sc \egrave.sc \eacute.sc \ecircumflex.sc 
+	\edieresis.sc \igrave.sc \iacute.sc \icircumflex.sc \idieresis.sc \ntilde.sc 
+	\ograve.sc \oacute.sc \ocircumflex.sc \otilde.sc \odieresis.sc \ugrave.sc 
+	\uacute.sc \ucircumflex.sc \udieresis.sc \yacute.sc \ydieresis.sc \OE \oe 
+	\trademark \quotedblbase \ellipsis \fraction \bullet \lozenge \Ydieresis 
+	\Rcaron \rcaron \Ecaron \ecaron \Scaron \scaron \Zcaron \zcaron \Ccaron \ccaron ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

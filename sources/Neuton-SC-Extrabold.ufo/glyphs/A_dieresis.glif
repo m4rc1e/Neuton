@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="1502"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="53" y="138" type="line"/>
+      <point x="204" y="241" type="line"/>
+      <point x="592" y="1205" type="line"/>
+      <point x="939" y="1270" type="line"/>
+      <point x="1329" y="238" type="line"/>
+      <point x="1467" y="145" type="line"/>
+      <point x="1455" y="-2" type="line"/>
+      <point x="740" y="-2" type="line"/>
+      <point x="756" y="136" type="line"/>
+      <point x="922" y="240" type="line"/>
+      <point x="884" y="352" type="line"/>
+      <point x="492" y="352" type="line"/>
+      <point x="455" y="240" type="line"/>
+      <point x="644" y="148" type="line"/>
+      <point x="629" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="562" y="561" type="line"/>
+      <point x="813" y="561" type="line"/>
+      <point x="686" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="788.6" y="1415.9" type="curve" smooth="yes"/>
+      <point x="788.6" y="1461.4"/>
+      <point x="818.96" y="1523"/>
+      <point x="926.54" y="1523" type="curve" smooth="yes"/>
+      <point x="1040.72" y="1523"/>
+      <point x="1070.42" y="1462.8"/>
+      <point x="1070.42" y="1418" type="curve" smooth="yes"/>
+      <point x="1070.42" y="1358.5"/>
+      <point x="1036.76" y="1308.8"/>
+      <point x="925.88" y="1308.8" type="curve" smooth="yes"/>
+      <point x="811.04" y="1308.8"/>
+      <point x="788.6" y="1364.8"/>
+    </contour>
+    <contour>
+      <point x="479.6" y="1415.9" type="curve" smooth="yes"/>
+      <point x="479.6" y="1461.4"/>
+      <point x="509.96" y="1523"/>
+      <point x="617.54" y="1523" type="curve" smooth="yes"/>
+      <point x="731.72" y="1523"/>
+      <point x="761.42" y="1462.8"/>
+      <point x="761.42" y="1418" type="curve" smooth="yes"/>
+      <point x="761.42" y="1358.5"/>
+      <point x="727.76" y="1308.8"/>
+      <point x="616.88" y="1308.8" type="curve" smooth="yes"/>
+      <point x="502.04" y="1308.8"/>
+      <point x="479.6" y="1364.8"/>
+    </contour>
+  </outline>
+</glyph>

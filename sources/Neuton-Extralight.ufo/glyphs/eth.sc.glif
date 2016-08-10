@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.sc" format="1">
+  <advance width="1267"/>
+  <outline>
+    <contour>
+      <point x="44" y="0" type="line"/>
+      <point x="52" y="42" type="line"/>
+      <point x="191" y="72" type="line"/>
+      <point x="191" y="837.7" type="line"/>
+      <point x="49" y="859.7" type="line"/>
+      <point x="59" y="895.7" type="line"/>
+      <point x="209.867" y="920.242"/>
+      <point x="310.19" y="933.7"/>
+      <point x="422" y="933.7" type="curve" smooth="yes"/>
+      <point x="786.727" y="933.7"/>
+      <point x="894" y="715.985"/>
+      <point x="894" y="497" type="curve" smooth="yes"/>
+      <point x="894" y="163"/>
+      <point x="650" y="2.76256e-05"/>
+      <point x="334" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="292" y="54" type="line"/>
+      <point x="381" y="54" type="line" smooth="yes"/>
+      <point x="655.224" y="54"/>
+      <point x="797" y="209"/>
+      <point x="797" y="461" type="curve" smooth="yes"/>
+      <point x="797" y="732.908"/>
+      <point x="646.421" y="879.7"/>
+      <point x="385" y="879.7" type="curve" smooth="yes"/>
+      <point x="362.552" y="879.7"/>
+      <point x="311.19" y="877"/>
+      <point x="292" y="875.7" type="curve"/>
+    </contour>
+    <contour>
+      <point x="48" y="405" type="line"/>
+      <point x="57" y="466" type="line"/>
+      <point x="502" y="500" type="line"/>
+      <point x="494" y="440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>54</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>860</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>880</integer>
+            <key>width</key>
+            <integer>54</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>191</integer>
+            <key>width</key>
+            <integer>101</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>797</integer>
+            <key>width</key>
+            <integer>97</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
