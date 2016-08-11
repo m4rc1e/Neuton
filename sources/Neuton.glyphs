@@ -60157,6 +60157,7 @@ value = 0;
 {
 name = underlinePosition;
 value = -361;
+<<<<<<< HEAD
 },
 {
 name = openTypeOS2Panose;
@@ -60172,6 +60173,8 @@ value = (
 "0",
 "0"
 );
+=======
+>>>>>>> foo
 }
 );
 interpolationWeight = 200;
@@ -60222,6 +60225,7 @@ value = 0;
 {
 name = underlinePosition;
 value = -361;
+<<<<<<< HEAD
 },
 {
 name = openTypeOS2FamilyClass;
@@ -60244,6 +60248,8 @@ value = (
 "0",
 "0"
 );
+=======
+>>>>>>> foo
 }
 );
 interpolationWeight = 300;
@@ -60294,6 +60300,7 @@ value = 0;
 {
 name = underlinePosition;
 value = -361;
+<<<<<<< HEAD
 },
 {
 name = openTypeOS2StrikeoutPosition;
@@ -60334,6 +60341,8 @@ value = 809;
 {
 name = openTypeOS2SuperscriptYSize;
 value = 1179;
+=======
+>>>>>>> foo
 }
 );
 interpolationWeight = 400;
@@ -60383,6 +60392,7 @@ value = 0;
 {
 name = underlinePosition;
 value = -361;
+<<<<<<< HEAD
 },
 {
 name = openTypeOS2Panose;
@@ -60438,6 +60448,8 @@ value = 809;
 {
 name = openTypeOS2SuperscriptYSize;
 value = 1179;
+=======
+>>>>>>> foo
 }
 );
 interpolationWeight = 700;
@@ -60488,6 +60500,7 @@ value = 0;
 {
 name = underlinePosition;
 value = -361;
+<<<<<<< HEAD
 },
 {
 name = openTypeOS2Panose;
@@ -60543,6 +60556,8 @@ value = 809;
 {
 name = openTypeOS2SuperscriptYSize;
 value = 1179;
+=======
+>>>>>>> foo
 }
 );
 interpolationWeight = 800;
