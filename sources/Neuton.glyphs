@@ -60184,6 +60184,48 @@ disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 instances = (
 {
+customParameters = (
+{
+name = typoAscender;
+value = 2106;
+},
+{
+name = typoDescender;
+value = -485;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2106;
+},
+{
+name = hheaDescender;
+value = -485;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2106;
+},
+{
+name = winDescent;
+value = 485;
+},
+{
+name = underlineThickness;
+value = 0;
+},
+{
+name = underlinePosition;
+value = -361;
+}
+);
 interpolationWeight = 200;
 instanceInterpolations = {
 "AE2A7EE3-C661-4E21-B15C-7E7CBD4BEDE2" = 1;
@@ -60192,6 +60234,48 @@ name = Extralight;
 weightClass = ExtraLight;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 2106;
+},
+{
+name = typoDescender;
+value = -485;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2106;
+},
+{
+name = hheaDescender;
+value = -485;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2106;
+},
+{
+name = winDescent;
+value = 485;
+},
+{
+name = underlineThickness;
+value = 0;
+},
+{
+name = underlinePosition;
+value = -361;
+}
+);
 interpolationWeight = 300;
 instanceInterpolations = {
 "95A1F7A7-251D-4D34-8987-F15869CF2847" = 1;
@@ -60200,6 +60284,48 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 2106;
+},
+{
+name = typoDescender;
+value = -485;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2106;
+},
+{
+name = hheaDescender;
+value = -485;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2106;
+},
+{
+name = winDescent;
+value = 485;
+},
+{
+name = underlineThickness;
+value = 0;
+},
+{
+name = underlinePosition;
+value = -361;
+}
+);
 interpolationWeight = 400;
 instanceInterpolations = {
 "A90FD956-C3C8-4F9C-A3E6-D92726884721" = 1;
@@ -60207,6 +60333,48 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 2106;
+},
+{
+name = typoDescender;
+value = -485;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2106;
+},
+{
+name = hheaDescender;
+value = -485;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2106;
+},
+{
+name = winDescent;
+value = 485;
+},
+{
+name = underlineThickness;
+value = 0;
+},
+{
+name = underlinePosition;
+value = -361;
+}
+);
 interpolationWeight = 700;
 instanceInterpolations = {
 "E2DFD151-CE6A-4BFD-8A7C-97074A3C806B" = 1;
@@ -60215,6 +60383,48 @@ name = Bold;
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 2106;
+},
+{
+name = typoDescender;
+value = -485;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 2106;
+},
+{
+name = hheaDescender;
+value = -485;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2106;
+},
+{
+name = winDescent;
+value = 485;
+},
+{
+name = underlineThickness;
+value = 0;
+},
+{
+name = underlinePosition;
+value = -361;
+}
+);
 interpolationWeight = 800;
 instanceInterpolations = {
 "3A1433D5-008E-4B0B-A40A-C7A907BE4F87" = 1;
