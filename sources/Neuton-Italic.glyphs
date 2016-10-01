@@ -1,6 +1,6 @@
 {
-.appVersion = "919";
-copyright = "Copyright 2010 The Neuton Project Authors (http://21326.info/)";
+.appVersion = "924";
+copyright = "Copyright 2010 The Neuton Project Authors (http://www.21326.info/)";
 customParameters = (
 {
 name = licenseURL;
@@ -28,8 +28,9 @@ name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 }
 );
-date = "2011-08-19 14:01:00 +0000";
+date = "2011-08-19 15:50:08 +0000";
 designer = "Brian M Zick";
+designerURL = "http://www.21326.info/";
 familyName = Neuton;
 featurePrefixes = (
 {
@@ -16089,15 +16090,15 @@ width = 626;
 unicode = 02DC;
 },
 {
-color = 4;
 glyphname = NULL;
-lastChange = "2016-09-14 15:00:45 +0000";
+lastChange = "2016-10-01 10:19:49 +0000";
 layers = (
 {
 layerId = "F2FC958C-67D2-45D4-A67F-FC49D9225D80";
 width = 0;
 }
 );
+unicode = 0000;
 }
 );
 disablesAutomaticAlignment = 1;
@@ -16163,6 +16164,8 @@ linkStyle = Regular;
 name = Italic;
 }
 );
+manufacturer = "Brian M Zick";
+manufacturerURL = "http://www.21326.info/";
 unitsPerEm = 2048;
 userData = {
 UFOFormat = 2;

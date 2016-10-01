@@ -1,6 +1,6 @@
 {
-.appVersion = "919";
-copyright = "Copyright 2010 The Neuton Project Authors (http://21326.info/)";
+.appVersion = "924";
+copyright = "Copyright 2010 The Neuton Project Authors (http://www.21326.info/)";
 customParameters = (
 {
 name = note;
@@ -16,7 +16,8 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
-value = 0;
+value = (
+);
 },
 {
 name = vendorID;
@@ -37,6 +38,7 @@ value = "http://scripts.sil.org/OFL";
 );
 date = "2011-08-19 15:50:08 +0000";
 designer = "Brian M Zick";
+designerURL = "http://www.21326.info/";
 familyName = Neuton;
 featurePrefixes = (
 {
@@ -60156,8 +60158,12 @@ unicode = 02DC;
 },
 {
 glyphname = NULL;
-lastChange = "2016-09-14 15:00:12 +0000";
+lastChange = "2016-10-01 10:19:45 +0000";
 layers = (
+{
+layerId = "3A1433D5-008E-4B0B-A40A-C7A907BE4F87";
+width = 0;
+},
 {
 layerId = "AE2A7EE3-C661-4E21-B15C-7E7CBD4BEDE2";
 width = 0;
@@ -60173,12 +60179,9 @@ width = 0;
 {
 layerId = "E2DFD151-CE6A-4BFD-8A7C-97074A3C806B";
 width = 0;
-},
-{
-layerId = "3A1433D5-008E-4B0B-A40A-C7A907BE4F87";
-width = 0;
 }
 );
+unicode = 0000;
 }
 );
 disablesAutomaticAlignment = 1;
@@ -60193,6 +60196,10 @@ value = "Neuton ExtraLight";
 {
 name = compatibleFullName;
 value = "Neuton ExtraLight";
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationWeight = 200;
@@ -60271,11 +60278,12 @@ interpolationWeight = 800;
 instanceInterpolations = {
 "3A1433D5-008E-4B0B-A40A-C7A907BE4F87" = 1;
 };
-isBold = 1;
 name = ExtraBold;
 weightClass = ExtraBold;
 }
 );
+manufacturer = "Brian M Zick";
+manufacturerURL = "http://www.21326.info/";
 unitsPerEm = 2048;
 userData = {
 UFOFormat = 2;
