@@ -16137,22 +16137,6 @@ value = 2106;
 {
 name = winDescent;
 value = 485;
-},
-{
-name = underlineThickness;
-value = 0;
-},
-{
-name = underlinePosition;
-value = -361;
-},
-{
-name = postscriptFullName;
-value = "Neuton Italic";
-},
-{
-name = compatibleFullName;
-value = "Neuton Italic";
 }
 );
 interpolationWeight = 400;

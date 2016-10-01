@@ -60190,14 +60190,6 @@ instances = (
 {
 customParameters = (
 {
-name = postscriptFullName;
-value = "Neuton ExtraLight";
-},
-{
-name = compatibleFullName;
-value = "Neuton ExtraLight";
-},
-{
 name = weightClass;
 value = 275;
 }
@@ -60210,16 +60202,6 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Neuton Light";
-},
-{
-name = compatibleFullName;
-value = "Neuton Light";
-}
-);
 interpolationWeight = 300;
 instanceInterpolations = {
 "95A1F7A7-251D-4D34-8987-F15869CF2847" = 1;
@@ -60228,16 +60210,6 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Neuton Regular";
-},
-{
-name = compatibleFullName;
-value = "Neuton Regular";
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 "A90FD956-C3C8-4F9C-A3E6-D92726884721" = 1;
@@ -60245,16 +60217,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Neuton Bold";
-},
-{
-name = compatibleFullName;
-value = "Neuton Bold";
-}
-);
 interpolationWeight = 700;
 instanceInterpolations = {
 "E2DFD151-CE6A-4BFD-8A7C-97074A3C806B" = 1;
@@ -60264,16 +60226,6 @@ name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Neuton ExtraBold";
-},
-{
-name = compatibleFullName;
-value = "Neuton ExtraBold";
-}
-);
 interpolationWeight = 800;
 instanceInterpolations = {
 "3A1433D5-008E-4B0B-A40A-C7A907BE4F87" = 1;
