@@ -1,6 +1,6 @@
 {
-.appVersion = "924";
-copyright = "Copyright 2010 The Neuton Project Authors (http://www.21326.info/)";
+.appVersion = "930";
+copyright = "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".";
 customParameters = (
 {
 name = note;
@@ -39,6 +39,8 @@ value = "http://scripts.sil.org/OFL";
 date = "2011-08-19 15:50:08 +0000";
 designer = "Brian M Zick";
 designerURL = "http://www.21326.info/";
+disablesAutomaticAlignment = 1;
+disablesNiceNames = 1;
 familyName = Neuton;
 featurePrefixes = (
 {
@@ -60184,8 +60186,6 @@ width = 0;
 unicode = 0000;
 }
 );
-disablesAutomaticAlignment = 1;
-disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
